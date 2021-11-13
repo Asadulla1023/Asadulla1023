@@ -1,6 +1,6 @@
-from random import random
-from math import floor
-print(floor(random()*100))
+# from random import random
+# from math import floor
+# print(floor(random()*100))
 
 # names = ['Asadulla', 'Xusan', 'Xasan', 'Elbek','Asadulla']
 # print(names[len(names)-1])
