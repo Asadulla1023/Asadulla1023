@@ -1,0 +1,8 @@
+login = input('loginni kiriting: ')
+password = input('Parolni kiriting: ')
+
+with open('login.py', 'rb') as Asa:
+    with open('dog_copy.jpeg', 'rb') as txt:
+        for line in Asa:
+            txt.write(line)
+
